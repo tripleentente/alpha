@@ -16,6 +16,7 @@
   "dependencies": {
     "hexo": "^5.0.0",
     "hexo-browsersync": "^0.3.0",
+    "hexo-deployer-git": "^4.0.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-feed": "^3.0.0",
@@ -23,10 +24,10 @@
     "hexo-generator-search": "^2.4.1",
     "hexo-generator-tag": "^1.0.0",
     "hexo-math": "^4.0.0",
+    "hexo-renderer-dartsass": "^0.1.2",
     "hexo-renderer-ejs": "^1.0.0",
     "hexo-renderer-marked": "^3.3.0",
     "hexo-renderer-pug": "^1.0.0",
-    "hexo-renderer-dartsass": "^0.1.2",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^2.0.0"
   }
