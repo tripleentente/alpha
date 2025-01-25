@@ -9,7 +9,7 @@ categories:
 ---
 ![$cover](images/lake.png)
 
-# Installation
+# Installation B
 ---
 This post uses `hexo-renderer-markdown-it` plugin as markdown processor, so please install it to achieve the effect.
 
