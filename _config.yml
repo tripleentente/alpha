@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-#url: https://haojen.github.io/Claudia-theme-blog/
+#url: https://yellowlagoon.github.io/Claudia-theme-blog/
 url: http://example.com
 root: /Claudia-theme-blog/
 permalink: :year/:month/:day/:title/
@@ -108,4 +108,7 @@ theme: hexo-theme-Claudia
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo:
+  https:github.com/yellowlagoon/claudia-theme-blog.git
+  branch: gh-pages
