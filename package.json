@@ -5,7 +5,7 @@
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
+    "deploy": "gh-pages -d public",
     "server": "hexo server",
     "start": "hexo server",
     "dev": "hexo clean && hexo g && hexo s --debug"
@@ -30,5 +30,8 @@
     "hexo-renderer-pug": "^1.0.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^2.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
