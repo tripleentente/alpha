@@ -111,4 +111,4 @@ deploy:
   type: git
   repo:
   https:github.com/yellowlagoon/claudia-theme-blog.git
-  branch: gh-pages
+  branch:gh-pages
