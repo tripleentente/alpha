@@ -30,8 +30,5 @@
     "hexo-renderer-pug": "^1.0.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^2.0.0"
-  },
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
   }
 }
