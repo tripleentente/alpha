@@ -14,6 +14,7 @@
     "version": "5.4.2"
   },
   "dependencies": {
+    "gh-pages-cli": "^0.2.0",
     "hexo": "^5.4.2",
     "hexo-browsersync": "^0.3.0",
     "hexo-deployer-git": "^4.0.0",
